@@ -1,5 +1,5 @@
 
-# 🚀 Crypto Portfolio Tracker (Windows EXE)
+# 🚀 Crypto Portfolio Tracker
 
 ## 📌 Overview
 
